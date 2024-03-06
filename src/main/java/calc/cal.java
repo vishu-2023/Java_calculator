@@ -16,13 +16,20 @@ public class cal extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 	
 		private String[]  s= {
-				"ચૂસ  મારો લોડો ચોદયા	",
-				"વયો જા વયો જા",
-				"ઊઊઓ ઍઍઍઍઍઍઍઍ ઊંઊં ",
-				"ઠીક છે",
-				"અંદર ના રૂમ માં જઈને વાંક વાળીને ઉભા રહો મુ આઉઉ ચુ",
-				"ત્રણ સ્તન ની ડીટડી વાળો બાબુ",
-				"હવે ભોશદીના જાને અહીંથી"
+				"Why don't skeletons fight each other?
+				They don't have the guts.",
+
+				"Why did the scarecrow win an award?
+				Because he was outstanding in his field.",
+
+				"What do you call cheese that isn't yours?
+				Nacho cheese!",
+
+				"Why don't scientists trust atoms?
+				Because they make up everything!",
+
+				"Why was the math book sad?
+				Because it had too many problems."
 				
 							
 		};
